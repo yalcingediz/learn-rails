@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 # added by BYG per training document Date: Dec 21, 2014
 gem 'rails_layout'
+# added by BYG per training document Date: Dec 23, 2014
+gem 'better_errors' 
 #
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
